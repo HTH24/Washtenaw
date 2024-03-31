@@ -1,0 +1,214 @@
+// output. Initialize the whole board with char 'E', indicating "Empty Position"
+// Player's disc color is R. Computer's is Y
+// 1st game - Right Diagonal
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+
+Value of result is: 1
+Human player moves first
+Human Player: choose a column number between 0 and 6
+0
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+R E E E E E Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+5
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+R Y E E E R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+3
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+Y E E E E E E
+R Y E R E R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+1
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+Y R E E E E E
+R Y E R Y R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+2
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+Y R Y E E E E
+R Y R R Y R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+3
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E Y E E E E E
+Y R Y R E E E
+R Y R R Y R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+3
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E Y E R E E E
+Y R Y R E Y E
+R Y R R Y R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+4
+E E E E E E E
+E E E E E E E
+E Y E E E E E
+E Y E R E E E
+Y R Y R R Y E
+R Y R R Y R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+2
+E E E E E E E
+E E E E E E E
+E Y E E E E E
+E Y R R E Y E
+Y R Y R R Y E
+R Y R R Y R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+4
+E E E E E E E
+E E E E E E E
+E Y E Y E E E
+E Y R R R Y E
+Y R Y R R Y E
+R Y R R Y R Y
+Human player moves first
+Human Player: choose a column number between 0 and 6
+5
+E E E E E E E
+E E E E E Y E
+E Y E Y E R E
+E Y R R R Y E
+Y R Y R R Y E
+R Y R R Y R Y
+We have a winner
+You won!
+Program ended with exit code: 0
+
+// 2nd game - Column
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+
+Value of result is: 0
+Computer moves first
+Human Player: choose a column number between 0 and 6
+0
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+R E E E E Y E
+Computer moves first
+Human Player: choose a column number between 0 and 60
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+R E E E E E E
+R E E Y E Y E
+Computer moves first
+Human Player: choose a column number between 0 and 60
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+R E E E E E E
+R E E E E E E
+R Y E Y E Y E
+Computer moves first
+Human Player: choose a column number between 0 and 60
+
+E E E E E E E
+E E E E E E E
+R E E E E E E
+R E E E E E E
+R E E E E E E
+R Y E Y E Y Y
+We have a winner
+You won!
+Program ended with exit code: 0
+
+// 3rd game - Row
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+
+Value of result is: 1
+Human player moves first
+Human Player: choose a column number between 0 and 6
+0
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+Y E E E E E E
+R E E E E E E
+Human player moves first
+Human Player: choose a column number between 0 and 61
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+Y E E E E E E
+R R E E E Y E
+Human player moves first
+Human Player: choose a column number between 0 and 62
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+Y E E E E Y E
+R R R E E Y E
+Human player moves first
+Human Player: choose a column number between 0 and 63
+
+E E E E E E E
+E E E E E E E
+E E E E E E E
+E E E E E E E
+Y E E E E Y E
+R R R R E Y Y
+We have a winner
+You won!
+Program ended with exit code: 0

@@ -1,0 +1,54 @@
+// output with different user choices
+
+Successfully populated a deck of 52 Cards.
+Please choose which game you want to play by entering a number among 1, 2, and 3, or enter a number other than those three to exit the game.
+1: Guess Value Only
+2: Guess Suit Only
+3: Guess Both
+1
+You chose to play the 'Guess Face Value Only' game
+Please guess the card's value between 1 and 13, inclusive at both ends.
+o
+I said enter an integer, Dumbass. Try again: 
+I said enter an integer, Dumbass. Try again: 20
+I said an integer between 1 and 13, inclusive at both ends. Try again: 9
+You have guessed 9 as the card's value.
+Wrong Number.
+The correct number is 1
+
+Do you want to play the game again? Enter 0 to indicate yes, or anything else to exit game.
+0
+Successfully populated a deck of 52 Cards.
+Please choose which game you want to play by entering a number among 1, 2, and 3, or enter a number other than those three to exit the game.
+1: Guess Value Only
+2: Guess Suit Only
+3: Guess Both
+2
+You chose to play the 'Guess Suit Only' game
+Please guess the card's suit: Diamond, Heart, Spade, and Club.
+5
+I said guess a suit, Dumbass. Try again: Spade
+You have guessed Spade as the card's suit.
+Wrong Suit.
+The correct suit is Diamond
+
+Do you want to play the game again? Enter 0 to indicate yes, or anything else to exit game.
+0
+Successfully populated a deck of 52 Cards.
+Please choose which game you want to play by entering a number among 1, 2, and 3, or enter a number other than those three to exit the game.
+1: Guess Value Only
+2: Guess Suit Only
+3: Guess Both
+3
+You chose to play the 'Guess Both' game
+Please guess the card's value between 1 and 13, inclusive at both ends.
+9
+You have guessed 9 as the card's value.
+Please guess the card's suit: Diamond, Heart, Spade, and Club.
+Club
+You have guessed Club as the card's suit.
+Value was wrong, Suit was correct.
+
+Do you want to play the game again? Enter 0 to indicate yes, or anything else to exit game.
+7
+Program ended with exit code: 0

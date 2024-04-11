@@ -1,0 +1,6 @@
+Lincoln 5000
+Parks 2000
+Shakespeare 8000
+Ghandi 2500
+Ashe 1750
+
